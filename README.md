@@ -14,7 +14,11 @@ Feature Engineering: Applied clustering and similarity matching algorithms to en
 API Development: Built an interactive API that allows users to enter a song and receive real-time music recommendations.
 Evaluation & Deployment: Assessed model performance and deployed an interface for user interaction.
 📊 Key Features
+
 ✔ Personalized music recommendations using machine learning models.
+
 ✔ Advanced clustering and similarity matching for improved accuracy.
+
 ✔ API-based song input system that generates recommended songs dynamically.
+
 ✔ Awarded Best Project Presentation in the NYU Data Science Bootcamp.
